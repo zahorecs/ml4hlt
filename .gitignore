@@ -1,7 +1,6 @@
-data/*
-plots/*
-venv/*
-src/__pycache__
-src/features/__pycache__
-src/models/__pycache__
-src/utils/__pycache__
+data/
+plots/
+venv/
+**/__pycache__/
+*.pyc
+*.pyo
